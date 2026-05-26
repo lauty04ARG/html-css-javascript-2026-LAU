@@ -1,5 +1,5 @@
 # 📚 TP Individual — Desarrollo Frontend Web
-### Universidad · Desarrollo de Software 
+### Catedra Desarrollo de Software Turno Noche
 
 ---
 
@@ -140,4 +140,4 @@ Leé `CODIGO_DE_HONOR.md` antes de comenzar.
 
 ---
 
-*Cátedra de Tecnologías Web · Desarrollo de Software · v2.0*
+*Catedra Desarrollo de Software Turno Noche · v2.0*

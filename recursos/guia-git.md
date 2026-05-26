@@ -85,7 +85,7 @@ git push origin tp/apellido-nombre
 2. **Andá a GitHub** → Tu fork → "Pull requests" → "New pull request"
 
 3. **Configuración del PR:**
-   - Base repository: `[repositorio-de-la-catedra]/tp-frontend`
+   - Base repository: `[Catedra Desarrollo de Software Turno Noche]/tp-frontend`
    - Base: `main`
    - Head: `tu-usuario/tp-frontend`
    - Compare: `tp/apellido-nombre`
@@ -100,7 +100,7 @@ Si el docente actualiza el repositorio original (correcciones, nuevos ejercicios
 
 ```bash
 # Agregar el repositorio original como "upstream" (una sola vez)
-git remote add upstream https://github.com/[catedra]/tp-frontend.git
+git remote add upstream https://github.com/[Catedra Desarrollo de Software Turno Noche]/tp-frontend.git
 
 # Traer los cambios
 git fetch upstream
@@ -110,7 +110,7 @@ git merge upstream/main
 
 # Si hay conflictos, resolverlos y luego:
 git add .
-git commit -m "merge: actualizo desde repositorio de cátedra"
+git commit -m "merge: actualizo desde repositorio de Catedra Desarrollo de Software Turno Noche"
 git push origin tp/apellido-nombre
 ```
 
