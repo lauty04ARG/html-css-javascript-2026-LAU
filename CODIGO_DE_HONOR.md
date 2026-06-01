@@ -77,7 +77,7 @@ La defensa no es para reprobarte. Es para confirmar que hubo aprendizaje real.
 Al hacer el PR de entrega, la descripción debe incluir:
 
 ```
-Yo, [NOMBRE COMPLETO], declaro que:
+Yo, [LAUTARO REDRUELLO], declaro que:
 1. Comprendo el código que estoy entregando
 2. Puedo explicarlo y defenderlo oralmente
 3. He completado los archivos REFLEXION.md de forma genuina
