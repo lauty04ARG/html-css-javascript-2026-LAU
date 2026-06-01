@@ -7,9 +7,9 @@
 
 | Campo | Dato |
 |-------|------|
-| **Nombre y Apellido** | |
-| **Legajo** | |
-| **Correo electrónico** | |
+| **Nombre y Apellido** |**Lautaro, Redruello** |
+| **Legajo** |**33334** |
+| **correo** |**lautaredruello@gmail.com** |
 
 ---
 
