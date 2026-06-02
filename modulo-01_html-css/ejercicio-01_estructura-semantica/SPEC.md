@@ -26,9 +26,9 @@ Trabajás en una pequeña agencia de diseño. Tu primer tarea es construir la es
 - [x] **REQ-1.1.5** Dentro de `<main>`, el artículo está envuelto en `<article>`
 - [x] **REQ-1.1.6** El artículo tiene: `<header>` interno con `<h1>` y metadatos del artículo (fecha en `<time datetime="...">`, autor, categoría), al menos 3 secciones (`<section>`) con sus títulos (`<h2>`), y al menos un `<aside>` con contenido relacionado
 - [x] **REQ-1.1.7** Existe al menos una lista `<ul>` o `<ol>` con 3+ ítems en el contenido del artículo
-- [ ] **REQ-1.1.8** El artículo incluye al menos una imagen con `alt` descriptivo y un `<figure>` con `<figcaption>`
+- [x] **REQ-1.1.8** El artículo incluye al menos una imagen con `alt` descriptivo y un `<figure>` con `<figcaption>`
 - [x] **REQ-1.1.9** La página tiene un `<footer>` con información de copyright y enlaces secundarios
-- [ ] **REQ-1.1.10** El HTML pasa el validador de W3C sin errores
+- [x] **REQ-1.1.10** El HTML pasa el validador de W3C sin errores
 
 ### Criterios opcionales (bonus)
 

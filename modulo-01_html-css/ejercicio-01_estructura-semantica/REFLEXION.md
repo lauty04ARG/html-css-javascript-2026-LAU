@@ -35,13 +35,13 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 
 ### 2.3 — Tu página tiene `<header>` en dos lugares: uno para la página y uno dentro del `<article>`. ¿Eso es válido? ¿Por qué?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta:si, porque uso uno para la pagina en general y otros para que cada seccion tenga su propio encabezado. Tengo entendido que es totalmente valido**
 
 ---
 
 ### 2.4 — Un motor de búsqueda como Google lee tu HTML. ¿Qué ventaja le da usar etiquetas semánticas versus usar solo `<div>` con clases?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta: facilia a los buscadores dar mejores resultados ya que "filtra" por las etiquetas**
 
 ---
 
@@ -61,7 +61,7 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 </div>
 ```
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta:El error semántico es que se están utilizando etiquetas genéricas <div> en lugar de las etiquetas semánticas de HTML5 que corresponden a cada sección. Para corregirlo, cambiaría el <div class="navigation"> por la etiqueta <nav>. Luego, cambiaría el <div class="main-content"> por <main>, el título por un <h1>, y agruparía el contenido del post dentro de un <article>**
 
 ---
 
@@ -69,19 +69,19 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 
 ### 3.1 — ¿Qué etiqueta usaste para el logo y por qué? ¿Hay alternativas?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta:use img,porque era la forma mas prolija de trabajar imagenes,ademas que me permitia usar <alt> que era necesaria para la consigna**
 
 ---
 
 ### 3.2 — ¿Elegiste `<ul>` u `<ol>` para tu lista? ¿Por qué esa y no la otra?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta:ul es para una lista y ol es para una lista ordenada/numerada, como no era necesaria o logica la numeracion solo use ul**
 
 ---
 
 ### 3.3 — Si alguien accede a tu página solo con un lector de pantalla (sin ver el HTML), ¿podría navegar y entender el contenido? ¿Qué cambiarías para mejorar la experiencia?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta:si, ya que le di una buena organizacion con respecto a subtitulos y demas, pero me gustaria decorarlo mas para que sea mas atractivo a la vista**
 
 ---
 
@@ -91,14 +91,14 @@ Marcá con una `x` lo que corresponda:
 
 ```
 [ ] Resolví el ejercicio completamente sin ayuda de IA
-[ ] Usé IA para entender algún concepto, pero escribí el código yo
+[x] Usé IA para entender algún concepto, pero escribí el código yo
 [ ] Usé IA para generar un borrador que luego modifiqué y entendí
 [ ] Usé IA extensamente y completé la reflexión para entender lo que hice
 ```
 
 *Si usaste IA, describí brevemente cómo:*
 
-> ✏️ **Tu respuesta (opcional si no usaste IA):**
+> ✏️ **Tu respuesta (opcional si no usaste IA): leyendo la teoria y el resumen que hay de html, me fui mandando cada vez mas, pero iba teniendo errores mientras codeaba que no vei y la IA me ayudó a corregirlo ademas de modelarlo un poco mejor**
 
 ---
 
@@ -110,10 +110,10 @@ En una escala del 1 al 5, ¿cuánto entendés ahora el concepto de HTML semánti
 [ ] 1 — Muy poco, necesito repasar
 [ ] 2 — Entiendo lo básico
 [ ] 3 — Lo entiendo bien
-[ ] 4 — Lo entiendo bien y puedo explicárselo a otro
+[x] 4 — Lo entiendo bien y puedo explicárselo a otro
 [ ] 5 — Podría dar una clase sobre esto
 ```
 
 *¿Qué parte te resultó más difícil?*
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta:se me dificulto con el tiempo que me llevo hacerlo, no se si en cuando a dificultad, pero estoy seguro de las cosas que puse ( no se si estan del todo bien), pero los conceptos los pude captar todos**
