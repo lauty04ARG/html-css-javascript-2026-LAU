@@ -12,7 +12,8 @@
 
 > ✏️ **Tu respuesta aquí:**
 >
-> [Escribí tu explicación]
+> [el archivo que hice se basa en mostrar un articulo que habla de la IA en el desarrollo de software, sus ventajas y desventajas, ademas de como nos puede jugar en contra. Me base en documentacion, foros e incluso use la IA para verificar que lo que yo hacia estaba bien o si habia algun error que yo no podia encontrar. El HTMl en si es basico, un articulo con secciones que hablan de los temas que mensioné, tiene un footer para el copyright (le puse unos archivos de muestra mas que nada), un encabezado bastante breve e 
+informativo para guiarse y unos links para saltar a las secciones directamente]
 
 ---
 
@@ -22,13 +23,13 @@ Respondé cada pregunta. Las respuestas deben ser tuyas. Podés investigar, pero
 
 ### 2.1 — ¿Cuál es la diferencia entre `<section>` y `<article>`? ¿Cuándo usarías cada uno?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta: article , esta compuesto  de section vendria, a ser los "subtitulos" que van a estar dentro del articulo y que sirven para separar los temas y mejor lectura**
 
 ---
 
 ### 2.2 — ¿Por qué es importante el atributo `datetime` en la etiqueta `<time>`? ¿Quién lo usa?
 
-> ✏️ **Tu respuesta:**
+> ✏️ **Tu respuesta: Se usa para ver en que momento o fecha fue hecho, un articulo nuevo va a tener mejor resultado que uno desactualizado**
 
 ---
 
